@@ -1,9 +1,9 @@
-title: Part to Whole - Global to Local
+title: AMT2025 Architectural Material Technologies Commons
 author:
   name: 
   email: 
 description: > # this means to ignore newlines until "show_excerpts:"
-  David Vardy (Director of the WKU Design Institute) and R. Spencer Steenblik (Asist. Dir. Public Architecture and Design Research Institute) have been leading an architecture studio focused on the complexities of aggregated collections of informal grass roots housing development. The studio has begun the process by looking at a "tiny house" competition sponsored by AIA Utah and commissioned by the Salt Lake City Mayor Mendenhall. The Students in the studio from all over China offer ideas and opportunities applicable in Salt Lake City, and Shanghai.
+Radical material responsibility through novel, regenerative, resilient, indigenous, and traditional materials with contemporary tools and innovations.
 
 show_excerpts: True # set to true to show excerpts on the homepage
 
@@ -57,8 +57,8 @@ minima:
 
 
 header_pages:  
-  - projects.md
-  - about.md
+  - Schedule.md
+  - Registration.md
 
 plugins:
  - jekyll-feed
