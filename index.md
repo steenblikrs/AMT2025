@@ -11,8 +11,11 @@ comment_issue_id: 1
 
 ---
 
+![20240723904_GIF720x204.gif](/steenblikrs/assets/assets/20240723904_GIF720x204.gif)
 
-Radical material responsibility through novel, regenerative, resilient, indigenous, and traditional materials with contemporary tools and innovations.
+# Architectural Material Technologies Commons
+
+### Radical material responsibility through novel, regenerative, resilient, indigenous, and traditional materials with contemporary tools and innovations.
 
 The "Material Commons" conference aims to explore the concept of radical material responsibility in architecture and design. By focusing on novel, regenerative, resilient, indigenous, traditional, and vernacular materials this conference seeks to foster sustainable practices that respect our environment and cultural heritage while empowering practitioners.  
 
@@ -31,7 +34,6 @@ Organized by R. Spencer Steenblik, Assistant Professor of Comprehensive Design a
 
 
 
-[
-  <iframe width="736" height="414" src="https://www.youtube.com/embed/QIHisIykzC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[   <iframe width="736" height="414" src="https://www.youtube.com/embed/QIHisIykzC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   ]: #
 
