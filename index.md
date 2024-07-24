@@ -11,7 +11,7 @@ comment_issue_id: 1
 
 ---
 
-![Banner](20240723904_GIF720x204.gif)
+![Banner](/assets/20240723904_GIF720x204.gif)
 
 # Architectural Material Technologies Commons
 
