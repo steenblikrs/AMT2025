@@ -17,6 +17,6 @@ The first year focussed on the relation between buildings – outside-in (ARCH 1
 
 #### Designers(students):
 
-{% include about_.html folder="/index/" %}
+{% include Schedule_.html folder="/index/" %}
 
 [comment]: <> (please refer to _incluedes/about_.html to add your photo)
