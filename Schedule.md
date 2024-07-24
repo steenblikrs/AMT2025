@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about.md/
+title: Schedule
+permalink: /Schedule/
 ---
 
 This course is sponsored in part by the [Public Architecture and Design Research Institute (PADRI)](https://keanmgc.github.io/padri/). In the first two years, the curriculum abstracted several components of Architecture (The site, the tectonics, the program) and separated the work at different scales. The third year aims to combine the different components of Architecture and have the students work at different scales. While the first two years had a modernist approach ( take one element of the Vitruvian triad as the design agenda), the third year will have students take both a pre-modernist approach, where Architecture and engineering issues are treated at the same time ( as it is the case in Vitruvius or Alberti treaties, which talk about proportion), and a postmodern approach where program is multiple, complex, hybrid, and the occasion of design manipulation.

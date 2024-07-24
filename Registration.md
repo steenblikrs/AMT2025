@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Registration
+permalink: /Registration/
 
 comment_issue_id: 1
 ---
