@@ -1,0 +1,65 @@
+title: Part to Whole - Global to Local
+author:
+  name: 
+  email: 
+description: > # this means to ignore newlines until "show_excerpts:"
+  David Vardy (Director of the WKU Design Institute) and R. Spencer Steenblik (Asist. Dir. Public Architecture and Design Research Institute) have been leading an architecture studio focused on the complexities of aggregated collections of informal grass roots housing development. The studio has begun the process by looking at a "tiny house" competition sponsored by AIA Utah and commissioned by the Salt Lake City Mayor Mendenhall. The Students in the studio from all over China offer ideas and opportunities applicable in Salt Lake City, and Shanghai.
+
+show_excerpts: True # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+theme: minima
+minima:
+  date_format: "%b %-d, %Y"
+  skin: dark
+
+
+
+  # generate social links in footer
+  social_links:
+    # twitter: jekyllrb
+    # github:  jekyll
+    # devto: jekyll
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    # instagram: jekyll
+    # linkedin: jekyll
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
+
+    # Mastodon instances
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+    # GitLab instances
+    # gitlab:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+  
+  
+# Build settings
+
+
+header_pages:  
+  - projects.md
+  - about.md
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
